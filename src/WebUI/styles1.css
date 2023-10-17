@@ -1,0 +1,16 @@
+#myform{
+    width: 50%;
+    height:50%;
+    margin:auto;
+    margin-top: 100px;
+    background-color:rgb(168, 228, 226);
+
+}
+body{
+    background-color:rgb(176, 167, 181);
+
+}
+#mm{
+    padding-left: 30%;
+    padding-top: 2%;
+}
